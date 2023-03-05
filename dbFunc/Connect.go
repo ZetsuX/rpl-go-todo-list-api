@@ -9,7 +9,7 @@ import (
 )
 
 func Connect() (*sql.DB, error) {
-	db, err := sql.Open("pgx", "postgres://"+getEnv("POSTGRE_USER")+":"+getEnv("POSTGRE_PASSWORD")+"@localhost:5432/oprecrpl")
+	db, err := sql.Open("pgx", "postgres://"+getEnv("POSTGRE_USER")+":"+getEnv("POSTGRE_PASSWORD")+"@localhost:5432/"+getEnv("POSTGRE_NAME"))
 	if err != nil {
 		return nil, err
 	}
