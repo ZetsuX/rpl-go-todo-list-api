@@ -1,5 +1,8 @@
 # Todo List API
 
+## API Documentation
+Link : [Click Here!](https://documenter.getpostman.com/view/25087235/2s93CNLsa9)
+
 ## Description
 An API for a Todo List Application created as the 2nd assignment of admin oprec from SE Lab (RPL). The code is divided into three parts which are as follows:
 - `structs` which functions like entity of Clean Architecture that is filled with structs used in the API
