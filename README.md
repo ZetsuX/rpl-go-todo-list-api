@@ -31,8 +31,6 @@ An API for a Todo List Application created as the 2nd assignment of admin oprec 
 - In my first assignment, I only used one main.go file for the full code which is very bad. So, I decided to change things up and improve by trying to separate each codes according to their functionality. That said, I have to first learn about packages and dependencies in Golang which are very hazy for me at the beginning. But after learning for some hours, I finally got it and able to figure out the usage.
 
 ## Things I Learned
-Doing this assignment pushes me to be able to learn a lot of things in creating API using Golang without Framework, which for me feels like quite a hassle to create just a single feature.
-<br>
-But, overall, completing this assignment give me a lot of ideas regarding how to work in the Golang environment by creating functional programming using a still quite bad copy of the Clean Architecture.
-<br>
-I've also learned a lot about packages in Golang and how they can be used to link everything together as one fully functional API, which improve the readability and clear the functionality of each code even further.
+- Doing this assignment pushes me to be able to learn a lot of things in creating API using Golang without Framework, which for me feels like quite a hassle to create just a single feature
+- I've also learned a lot about packages in Golang and how they can be used to link everything together as one fully functional API, which improve the readability and clear the functionality of each code even further
+- Overall, completing this assignment give me a lot of ideas regarding how to work in the Golang environment by creating functional programming using a still quite bad copy of the Clean Architecture created solely by myself
